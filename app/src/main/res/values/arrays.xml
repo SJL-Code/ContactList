@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <array name="waveSideBarLetters">
+        <item>\u2606</item> <!--星星-->
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\u0023</item> <!--#-->
+    </array>
+
+    <string-array name="data">
+        <item>陈伟霆</item>
+        <item>刘诗诗</item>
+        <item>周笔畅</item>
+        <item>张艺兴</item>
+        <item>黄子韬</item>
+        <item>乔振宇</item>
+        <item>张颂文</item>
+        <item>王晓晨</item>
+        <item>菅纫姿</item>
+        <item>章龄之</item>
+        <item>杨旭文</item>
+        <item>张嘉译</item>
+        <item>周润发</item>
+        <item>赵丽颖</item>
+        <item>周杰伦</item>
+        <item>霍建华</item>
+        <item>黄圣依</item>
+        <item>范冰冰</item>
+        <item>韩雨芹</item>
+        <item>彭昱畅</item>
+        <item>刘德华</item>
+        <item>周星驰</item>
+        <item>赵今麦</item>
+        <item>关晓彤</item>
+        <item>章子怡</item>
+        <item>徐黄丽</item>
+        <item>王俊凯</item>
+        <item>柴碧云</item>
+        <item>陈志朋</item>
+        <item>李易峰</item>
+        <item>张钧甯</item>
+        <item>蒋勤勤</item>
+        <item>周一围</item>
+        <item>高大伟</item>
+        <item>张馨予</item>
+        <item>谷文泽</item>
+        <item>徐洁儿</item>
+        <item>于明加</item>
+        <item>文咏珊</item>
+        <item>阚清子</item>
+        <item>高圆圆</item>
+        <item>赵梦玥</item>
+        <item>佟丽娅</item>
+        <item>林志颖</item>
+        <item>林心如</item>
+        <item>黄晓明</item>
+        <item>陈乔恩</item>
+        <item>果静林</item>
+        <item>蓝盈莹</item>
+        <item>吴佩慈</item>
+        <item>林正英</item>
+        <item>刘恺威</item>
+        <item>赵奕欢</item>
+        <item>王海燕</item>
+        <item>邓紫棋</item>
+        <item>谢霆锋</item>
+        <item>王梓薇</item>
+        <item>张佳宁</item>
+        <item>时婷婷</item>
+        <item>TFBOYS</item>
+        <item>Angelababy</item>
+    </string-array>
+
+</resources>

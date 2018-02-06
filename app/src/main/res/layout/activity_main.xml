@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical">
+
+    <cn.edu.xyc.contactlist.widget.ClearEditText
+        android:id="@+id/searchClearEditText"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:background="@null"
+        android:gravity="center"
+        android:hint="@string/search"
+        android:textColor="#333333"
+        android:textColorHint="#B2B2B2"
+        android:textSize="14sp"
+        app:leftImage="@mipmap/login_delete_kong"
+        app:rightImage="@mipmap/icon_close" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="#B2B2B2" />
+
+    <FrameLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/contactListRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <cn.edu.xyc.contactlist.widget.WaveSideBar
+            android:id="@+id/waveSideBar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </FrameLayout>
+</LinearLayout>
